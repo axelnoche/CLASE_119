@@ -1,0 +1,20 @@
+body{
+    color:rgb(189, 255, 102);
+    background:skyblue;
+}
+
+span{
+    font-size:30px;
+}
+
+#camera,#results{
+    border:2px dashed coral ;
+    width: 350px;
+    height: 300px;
+}
+
+.heading{
+    font-size:18px ;
+    border-radius:10px ;
+    letter-spacing:10px ;
+}
